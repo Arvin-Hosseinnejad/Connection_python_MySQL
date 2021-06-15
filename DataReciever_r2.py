@@ -1,3 +1,7 @@
+"""
+This is the module with which you will connect to
+Database and fetch data from it 
+"""
 import mysql.connector
 import time
 

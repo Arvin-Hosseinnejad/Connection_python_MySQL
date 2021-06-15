@@ -1,3 +1,7 @@
+"""
+This is the modlue with which you can connect to 
+MySQL Managment server and check if it is succesful
+"""
 # To connect with Mysql Data Management server
 import mysql.connector
 
