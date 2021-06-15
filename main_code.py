@@ -1,3 +1,7 @@
+"""
+This is the main modlu in which you have you program logic
+"""
+
 import DataSender_r2
 import DataReciever_r2
 import time

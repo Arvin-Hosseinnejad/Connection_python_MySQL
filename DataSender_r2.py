@@ -1,3 +1,7 @@
+"""
+This is the module with which you will connect to
+Database and send data to it
+"""
 from DataGenerator import generator as g
 import mysql.connector
 
