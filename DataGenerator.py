@@ -1,11 +1,3 @@
-""" 
-This is the module that includes a function 
-with which you can generate three random 
-numbers between 0 and 1. it will return these 
-three numbers within a tuple 
- 
-"""
-
 import time
 import random
 
