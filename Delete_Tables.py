@@ -1,3 +1,9 @@
+"""
+This is the modul with which you will be able to
+delete all the generated tables for your MySQL database
+ 
+"""
+
 import mysql.connector
 
 n_eps = 10
